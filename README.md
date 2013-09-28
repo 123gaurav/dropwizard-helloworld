@@ -1,6 +1,6 @@
 dropwizard-helloworld
 =====================
-# test webhooks
+# testing webhooks
 $ mvn clean package
 
 $ bin/run.sh 
